@@ -1,0 +1,7 @@
+git init => used to create an empty directory
+git status => display whether file is tracked , staged or untracked[D
+git add => used to send the file from untracked to staged
+git commit -m => used to move file from staged to tracked 
+git rm --cached <filename> => used to remove file from local
+git rm --cached <filename> => used to unstage the file
+git restore <filename> => used to restore the file from version control
