@@ -6,3 +6,9 @@ git rm --cached <filename> => used to remove file from local
 git rm --cached <filename> => used to unstage the file
 git restore <filename> => used to restore the file from version control
 git restore --staged <filename> => used send the file to unstaged [D[D
+git remote add origin => (https://github.com/<username>/<repo_name.git>
+git remote -v
+git status
+git remote set-url origin https://<github_token>@github.com/<github_username>/<repo_name.git>
+git status
+git push origin master
