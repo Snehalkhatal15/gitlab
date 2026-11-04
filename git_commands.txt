@@ -12,3 +12,4 @@ git status
 git remote set-url origin https://<github_token>@github.com/<github_username>/<repo_name.git>
 git status
 git push origin master
+These are some new changes
