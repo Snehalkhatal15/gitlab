@@ -5,3 +5,4 @@ git commit -m => used to move file from staged to tracked
 git rm --cached <filename> => used to remove file from local
 git rm --cached <filename> => used to unstage the file
 git restore <filename> => used to restore the file from version control
+git restore --staged <filename> => used send the file to unstaged [D[D
